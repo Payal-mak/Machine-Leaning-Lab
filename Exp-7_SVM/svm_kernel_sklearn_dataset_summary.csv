@@ -1,0 +1,5 @@
+Kernel,Accuracy,Macro_F1
+poly,0.8421,0.8424
+rbf,0.8421,0.8462
+linear,0.8158,0.8202
+sigmoid,0.7368,0.7421
